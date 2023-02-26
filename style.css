@@ -1,0 +1,17 @@
+.h1-event{
+    cursor: pointer;
+}
+
+ul{
+list-style: none;
+}
+
+li{
+    padding: 5px;
+
+    border: 2px solid grey;
+}
+
+.highlight{
+    background-color: pink;
+}
